@@ -1,0 +1,55 @@
+html{
+    margin: 70px;
+    margin-inline: 20%;
+    border: 50px;
+    font-family:"Pathway Gothic One", sans-serif;
+    
+}
+.pathway-gothic-one-regular {
+    font-family: "Pathway Gothic One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+#paragraph {display: flex;
+flex-direction: row;
+inline-size: 240%}
+#body { column-count: 2;
+    column-width: 50%;
+}
+
+h1{
+    padding-top: 50px;
+background-color:pink;}
+
+img{
+    height: 100px;
+    width:100px;
+    left: 50%;
+   border-radius: 100px;
+   border-color: darkgoldenrod;
+   border: 2px solid darkgoldenrod
+    
+}
+
+#location{width: 30px;
+    height: 30px;
+} 
+
+#phone{
+    width: 30px;
+    height: 30px;
+}
+#email{ 
+    width: 30px;
+    height: 30px;
+}
+.contact{
+    inline-size: none;
+    margin: 0;
+    padding: 0;
+}
+#box{
+    background-color:cornsilk ;
+}
